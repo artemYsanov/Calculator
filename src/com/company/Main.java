@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         /**
          *@see Math.pow(num1,num2) - Метод для возведения в степень.
-         * В задаче тредуется работать с целыми числами, но метод "Math.pow" работает только с переменными double.
+         * В задаче требуется работать с целыми числами, но метод "Math.pow" работает только с переменными double.
          */
     double num1;
     double num2;
