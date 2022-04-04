@@ -40,7 +40,7 @@ public class Main {
                 equally = num1 / num2;
                 break;
             default:
-                System.out.printf("Error!");
+                System.out.print("Error!");
                 return;
         }
         System.out.println(equally);
